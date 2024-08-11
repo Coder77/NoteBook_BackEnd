@@ -5,5 +5,4 @@ const connectToMongo = () => {
         console.log('Connected to Mongo');
     })
 }
-
 module.exports = connectToMongo;
